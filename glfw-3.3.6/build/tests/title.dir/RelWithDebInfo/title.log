@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/opengl_hw1/glfw-3.3.6/tests/CMakeLists.txt
+  title.c
+D:\opengl_hw1\glfw-3.3.6\tests\title.c(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  glad_gl.c
+  正在產生程式碼...
+  title.vcxproj -> D:\opengl_hw1\glfw-3.3.6\build\tests\RelWithDebInfo\title.exe

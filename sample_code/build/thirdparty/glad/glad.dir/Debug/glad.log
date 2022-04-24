@@ -1,0 +1,3 @@
+﻿  Building Custom Rule D:/opengl_hw1/sample_code/thirdparty/glad/CMakeLists.txt
+  glad.c
+  glad.vcxproj -> D:\opengl_hw1\sample_code\build\thirdparty\glad\Debug\glad.lib

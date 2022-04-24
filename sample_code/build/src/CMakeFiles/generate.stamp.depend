@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+D:/opengl_hw1/sample_code/cmake/CompilerOptions.cmake
+D:/opengl_hw1/sample_code/cmake/PostBuildCommand.cmake
+D:/opengl_hw1/sample_code/src/CMakeLists.txt

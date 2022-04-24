@@ -1,0 +1,3 @@
+﻿  Building Custom Rule D:/opengl_hw1/sample_code/thirdparty/stb/CMakeLists.txt
+  stb_image.cpp
+  stb.vcxproj -> D:\opengl_hw1\sample_code\build\thirdparty\stb\Debug\stb.lib

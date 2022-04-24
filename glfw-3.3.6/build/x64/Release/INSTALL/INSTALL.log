@@ -1,0 +1,27 @@
+﻿  CMake Warning (dev) at cmake_install.cmake:5 (set):
+    Syntax error in cmake code at
+  
+      D:/opengl_hw1/glfw-3.3.6/build/cmake_install.cmake:5
+  
+    when parsing string
+  
+      D:\Library\OpenGL\glfw\msvc2019
+  
+    Invalid escape sequence \L
+  
+    Policy CMP0010 is not set: Bad variable reference syntax is an error.  Run
+    "cmake --help-policy CMP0010" for policy details.  Use the cmake_policy
+    command to set the policy and suppress this warning.
+  This warning is for project developers.  Use -Wno-dev to suppress it.
+  
+  -- Install configuration: "Release"
+  -- Installing: D:\Library\OpenGL\glfw\msvc2019/lib/glfw3dll.lib
+  -- Installing: D:\Library\OpenGL\glfw\msvc2019/bin/glfw3.dll
+  -- Up-to-date: D:\Library\OpenGL\glfw\msvc2019/include/GLFW
+  -- Up-to-date: D:\Library\OpenGL\glfw\msvc2019/include/GLFW/glfw3.h
+  -- Up-to-date: D:\Library\OpenGL\glfw\msvc2019/include/GLFW/glfw3native.h
+  -- Up-to-date: D:\Library\OpenGL\glfw\msvc2019/lib/cmake/glfw3/glfw3Config.cmake
+  -- Up-to-date: D:\Library\OpenGL\glfw\msvc2019/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+  -- Up-to-date: D:\Library\OpenGL\glfw\msvc2019/lib/cmake/glfw3/glfw3Targets.cmake
+  -- Installing: D:\Library\OpenGL\glfw\msvc2019/lib/cmake/glfw3/glfw3Targets-release.cmake
+  -- Up-to-date: D:\Library\OpenGL\glfw\msvc2019/lib/pkgconfig/glfw3.pc

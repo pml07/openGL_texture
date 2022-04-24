@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/opengl_hw1/glfw-3.3.6/tests/CMakeLists.txt
+  triangle-vulkan.c
+  glad_vulkan.c
+  正在產生程式碼...
+  triangle-vulkan.vcxproj -> D:\opengl_hw1\glfw-3.3.6\build\tests\MinSizeRel\triangle-vulkan.exe

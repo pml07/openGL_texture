@@ -1,0 +1,31 @@
+﻿  Building Custom Rule D:/opengl_hw1/sample_code/src/CMakeLists.txt
+  Main.cpp
+  Mesh.cpp
+  TextureFactory.cpp
+  OpenGLWindow.cpp
+  OpenGLBufferObject.cpp
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLBufferObject.cpp(65,56): error C2220: 以下警告視為錯誤處理
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLBufferObject.cpp(65,56): warning C4100: 'size': 未參考的型式參數
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLBufferObject.cpp(64,57): warning C4100: 'data': 未參考的型式參數
+  OpenGLException.cpp
+  OpenGLShader.cpp
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLShader.cpp(23,34): error C2220: 以下警告視為錯誤處理
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLShader.cpp(23,34): warning C4100: 'id': 未參考的型式參數
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLShader.cpp(80,50): warning C4100: 'source': 未參考的型式參數
+  OpenGLShaderProgram.cpp
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLShaderProgram.cpp(164,56): error C2220: 以下警告視為錯誤處理
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLShaderProgram.cpp(164,56): warning C4100: 'index': 未參考的型式參數
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLShaderProgram.cpp(169,55): warning C4100: 'index': 未參考的型式參數
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLShaderProgram.cpp(192,51): warning C4100: 'offset': 未參考的型式參數
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLShaderProgram.cpp(191,55): warning C4100: 'stride': 未參考的型式參數
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLShaderProgram.cpp(190,70): warning C4100: 'normalized': 未參考的型式參數
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLShaderProgram.cpp(190,54): warning C4100: 'type': 未參考的型式參數
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLShaderProgram.cpp(189,67): warning C4100: 'size': 未參考的型式參數
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLShaderProgram.cpp(189,54): warning C4100: 'index': 未參考的型式參數
+  OpenGLVertexArrayObject.cpp
+  OpenGLTexture.cpp
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLTexture.cpp(91,66): error C2220: 以下警告視為錯誤處理
+D:\opengl_hw1\sample_code\src\OpenGL\OpenGLTexture.cpp(91,66): warning C4100: 'buffer': 未參考的型式參數
+  Generals.cpp
+  FileIn.cpp
+  正在產生程式碼...

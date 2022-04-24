@@ -1,0 +1,10 @@
+^D:\OPENGL_HW1\SAMPLE_CODE\BUILD\CMAKEFILES\00A9C9CBED76527AC319BB0978906F0F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/opengl_hw1/sample_code -BD:/opengl_hw1/sample_code/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/opengl_hw1/sample_code/build/Homework01.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
