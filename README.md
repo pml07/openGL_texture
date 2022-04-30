@@ -1,4 +1,4 @@
-# OpenGL_hw1
+# OpenGL_texture
 ###### tags: `openGL`
 
 
